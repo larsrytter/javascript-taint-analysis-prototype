@@ -1,0 +1,3 @@
+{
+    "conf.settingsEditor.sanitizerPatterns.HTML": "sanitizeForHtmlOutput(\nparseInt("
+}
